@@ -72,6 +72,12 @@ Rawdata(json):
 
 Route(Method - DELETE) : `localhost:8080/employees/{id}`
 
+### Cloud Deployment :
+
+I have deployed the api to the AWS cloud using Elastic Container Service(ECS)
+
+Use public IP : ``` 3.91.226.107``` on port 8080 to access the api service.
+
 Use Postman API for carrying out the different CRUD operations on a better UI.
 
 
